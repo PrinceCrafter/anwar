@@ -1,4 +1,4 @@
-const prefix = "1";
+const prefix = "A";
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
